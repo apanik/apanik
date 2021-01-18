@@ -8,3 +8,5 @@
 <a href="https://www.instagram.com/one_eek/">
   <img align="left" alt="A n i k's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
+
+Hi, I'm Alam Parvez Anik, a Python/Django developer 🚀 from Dhaka,Bangladesh and a Former Jr. Software Engineer at [Ishraak Solutions](https://www.ishraak.com/). Beside's programming, I enjoy eating food and traveling.
