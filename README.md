@@ -5,6 +5,7 @@
 Hi, I'm Alam Parvez Anik, a Python/Django developer 🚀 from Dhaka,Bangladesh and a Former Jr. Software Engineer at [Ishraak Solutions](https://www.ishraak.com/). Beside's programming, I enjoy eating food and traveling.
 ```python
 Info = {
+
 "pronouns" : "he" | "him",
 
 "languages": ["Python","Javascript","HTML","CSS"],
