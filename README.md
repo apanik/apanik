@@ -6,11 +6,15 @@ Hi, I'm Alam Parvez Anik, a Python/Django developer 🚀 from Dhaka,Bangladesh a
 ```python
 Info = {
 "pronouns" : "he" | "him",
+
 "languages": ["Python","Javascript","HTML","CSS"],
+
 "framework/library": ["Django","Django REST framework",
 "Angular","Bootstrap","jQuery",",jax".],
+
 others = {
 "version-control":["git","gitlab","github","bitbucket"]
+
 "Agile" : "Scrum"
 }
 "challenge" : "I am doing the #100DaysOfCode challenge 
