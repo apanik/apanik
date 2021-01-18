@@ -4,7 +4,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ap.anik71@gmail.com)](mailto:ap.anik71@gmail.com) </br>
 Hi, I'm Alam Parvez Anik, a Python/Django developer 🚀 from Dhaka,Bangladesh and a Former Jr. Software Engineer at [Ishraak Solutions](https://www.ishraak.com/). Beside's programming, I enjoy eating food and traveling.
 <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
-```
+```python
 Info = {
 "pronouns" : "he" | "him",
 "languages": ["Python","Javascript","HTML","CSS"],
