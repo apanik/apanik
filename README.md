@@ -10,3 +10,6 @@
 </a>
 
 Hi, I'm Alam Parvez Anik, a Python/Django developer 🚀 from Dhaka,Bangladesh and a Former Jr. Software Engineer at [Ishraak Solutions](https://www.ishraak.com/). Beside's programming, I enjoy eating food and traveling.
+
+<img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
+
