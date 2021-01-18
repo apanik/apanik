@@ -12,7 +12,7 @@ Info = {
 
 "framework/library": ["Django","Django REST framework",
 
-"Angular","Bootstrap","jQuery",",jax".],
+"Angular","Bootstrap","jQuery",",Ajax".],
 
 others = {
 
