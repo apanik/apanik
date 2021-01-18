@@ -10,14 +10,18 @@ Info = {
 "languages": ["Python","Javascript","HTML","CSS"],
 
 "framework/library": ["Django","Django REST framework",
+
 "Angular","Bootstrap","jQuery",",jax".],
 
 others = {
-"version-control":["git","gitlab","github","bitbucket"]
 
+"version-control":["git","gitlab","github","bitbucket"]
 "Agile" : "Scrum"
+
 }
+
 "challenge" : "I am doing the #100DaysOfCode challenge 
 focused on Python & Django."
+
 }
 ```
