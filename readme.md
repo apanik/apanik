@@ -14,7 +14,7 @@ Info = {
 
 "Angular","Bootstrap","jQuery",",Ajax".],
 
-others = {
+"Others" : {
 
 "version-control":["git","gitlab","github","bitbucket"]
 "Agile" : "Scrum"
