@@ -16,7 +16,7 @@ Info = {
 
 "Others" : {
 
-"version-control":["git","gitlab","github","bitbucket"]
+"version-control":["git","gitlab","github","bitbucket"],
 "Agile" : "Scrum"
 
 }
