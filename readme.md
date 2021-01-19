@@ -21,8 +21,7 @@ Info = {
 
 }
 
-"challenge" : "I am doing the #100DaysOfCode challenge 
-focused on Python & Django."
+"challenge" : "I am doing the #100DaysOfCode challenge focused on Python & Django."
 
 }
 ```
