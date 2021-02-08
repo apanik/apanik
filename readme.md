@@ -16,11 +16,11 @@ Info = {
 
 "Others" : {
 
-"version-control":["git","gitlab","github","bitbucket"],
+"version-control":["git","gitlab","github","bitbucket"],"challenge" : "I am doing the #100DaysOfCode challenge focused on Python & Django
 
 "Agile" : "Scrum"
 
-}
+},
 
 "challenge" : "I am doing the #100DaysOfCode challenge focused on Python & Django."
 
