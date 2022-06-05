@@ -1,6 +1,3 @@
-![Jokes Card](https://readme-jokes.vercel.app/api)
-
-
 
 ### Hey 👋🏽, I'm [A n i k!](https://www.facebook.com/ap1eek/) 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luiz-carlos-abbott-galvão-neto-21a93b148/)](https://www.linkedin.com/in/alamparvezanik/)
