@@ -7,6 +7,15 @@ Hi, I'm Alam Parvez Anik, a [Python](https://www.python.org/)/[Django developer]
 
 
 
+Before Getting into the my stacks, Let me share with you a progmming joke! 
+![Jokes Card](https://readme-jokes.vercel.app/api)
+
+Get it? No!
+No Problem.
+
+
+
+
 ```python
 Info = {
 
