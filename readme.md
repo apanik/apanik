@@ -124,135 +124,32 @@ team_culture = "Thoughtful communication + healthy caffeine levels"
 <p align="center">Fresh neon glassmorphism frames with animated gradients keep the live dashboards feeling like a modern control room.</p>
 
 <div align="center">
-  <svg width="420" height="230" viewBox="0 0 420 230" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="GitHub streak stats with animated border" style="margin: 10px;">
-    <defs>
-      <linearGradient id="pulseGradA" x1="0%" y1="0%" x2="100%" y2="0%">
-        <stop offset="0%" stop-color="#10b981">
-          <animate attributeName="stop-color" values="#10b981;#22d3ee;#8b5cf6;#10b981" dur="8s" repeatCount="indefinite" />
-        </stop>
-        <stop offset="100%" stop-color="#22d3ee">
-          <animate attributeName="stop-color" values="#22d3ee;#8b5cf6;#10b981;#22d3ee" dur="8s" repeatCount="indefinite" />
-        </stop>
-      </linearGradient>
-      <linearGradient id="cardGlowA" x1="0%" y1="0%" x2="0%" y2="100%">
-        <stop offset="0%" stop-color="#0f172a" stop-opacity="0.85" />
-        <stop offset="100%" stop-color="#0b1224" stop-opacity="0.92" />
-      </linearGradient>
-      <filter id="glowA" x="-30%" y="-30%" width="160%" height="160%">
-        <feGaussianBlur stdDeviation="6" result="coloredBlur" />
-        <feMerge>
-          <feMergeNode in="coloredBlur" />
-          <feMergeNode in="SourceGraphic" />
-        </feMerge>
-      </filter>
-    </defs>
-    <rect x="0" y="0" width="420" height="230" fill="url(#pulseGradA)" opacity="0.25">
-      <animate attributeName="opacity" values="0.15;0.35;0.15" dur="6s" repeatCount="indefinite" />
-    </rect>
-    <rect x="12" y="12" width="396" height="206" rx="18" ry="18" fill="url(#cardGlowA)" stroke="url(#pulseGradA)" stroke-width="2" filter="url(#glowA)">
-      <animate attributeName="stroke-dasharray" values="14 8; 4 10; 14 8" dur="10s" repeatCount="indefinite" />
-    </rect>
-    <rect x="20" y="20" width="380" height="190" rx="14" ry="14" fill="#0d1117" stroke="#1f2937" stroke-width="1" />
-    <image href="https://github-readme-streak-stats.herokuapp.com/?user=apanik&theme=dark&hide_border=false" x="22" y="22" width="376" height="186" preserveAspectRatio="xMidYMid slice" />
-  </svg>
-
-  <svg width="420" height="230" viewBox="0 0 420 230" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Top languages with animated border" style="margin: 10px;">
-    <defs>
-      <linearGradient id="pulseGradB" x1="0%" y1="0%" x2="100%" y2="0%">
-        <stop offset="0%" stop-color="#22d3ee">
-          <animate attributeName="stop-color" values="#22d3ee;#8b5cf6;#10b981;#22d3ee" dur="8s" repeatCount="indefinite" />
-        </stop>
-        <stop offset="100%" stop-color="#8b5cf6">
-          <animate attributeName="stop-color" values="#8b5cf6;#10b981;#22d3ee;#8b5cf6" dur="8s" repeatCount="indefinite" />
-        </stop>
-      </linearGradient>
-      <linearGradient id="cardGlowB" x1="0%" y1="0%" x2="0%" y2="100%">
-        <stop offset="0%" stop-color="#0b1224" stop-opacity="0.88" />
-        <stop offset="100%" stop-color="#0f172a" stop-opacity="0.94" />
-      </linearGradient>
-      <filter id="glowB" x="-30%" y="-30%" width="160%" height="160%">
-        <feGaussianBlur stdDeviation="6" result="coloredBlur" />
-        <feMerge>
-          <feMergeNode in="coloredBlur" />
-          <feMergeNode in="SourceGraphic" />
-        </feMerge>
-      </filter>
-    </defs>
-    <rect x="0" y="0" width="420" height="230" fill="url(#pulseGradB)" opacity="0.25">
-      <animate attributeName="opacity" values="0.12;0.32;0.12" dur="6s" repeatCount="indefinite" />
-    </rect>
-    <rect x="12" y="12" width="396" height="206" rx="18" ry="18" fill="url(#cardGlowB)" stroke="url(#pulseGradB)" stroke-width="2" filter="url(#glowB)">
-      <animate attributeName="stroke-dashoffset" values="0;120;0" dur="9s" repeatCount="indefinite" />
-    </rect>
-    <rect x="20" y="20" width="380" height="190" rx="14" ry="14" fill="#0b1120" stroke="#1f2937" stroke-width="1" />
-    <image href="https://github-readme-stats.vercel.app/api/top-langs/?username=apanik&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" x="22" y="22" width="376" height="186" preserveAspectRatio="xMidYMid slice" />
-  </svg>
-</div>
-
-<div align="center">
-  <svg width="420" height="230" viewBox="0 0 420 230" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="GitHub stats with animated border" style="margin: 10px;">
-    <defs>
-      <linearGradient id="pulseGradC" x1="0%" y1="0%" x2="100%" y2="0%">
-        <stop offset="0%" stop-color="#8b5cf6">
-          <animate attributeName="stop-color" values="#8b5cf6;#10b981;#22d3ee;#8b5cf6" dur="8s" repeatCount="indefinite" />
-        </stop>
-        <stop offset="100%" stop-color="#10b981">
-          <animate attributeName="stop-color" values="#10b981;#22d3ee;#8b5cf6;#10b981" dur="8s" repeatCount="indefinite" />
-        </stop>
-      </linearGradient>
-      <linearGradient id="cardGlowC" x1="0%" y1="0%" x2="0%" y2="100%">
-        <stop offset="0%" stop-color="#0f172a" stop-opacity="0.88" />
-        <stop offset="100%" stop-color="#0b1224" stop-opacity="0.94" />
-      </linearGradient>
-      <filter id="glowC" x="-30%" y="-30%" width="160%" height="160%">
-        <feGaussianBlur stdDeviation="6" result="coloredBlur" />
-        <feMerge>
-          <feMergeNode in="coloredBlur" />
-          <feMergeNode in="SourceGraphic" />
-        </feMerge>
-      </filter>
-    </defs>
-    <rect x="0" y="0" width="420" height="230" fill="url(#pulseGradC)" opacity="0.25">
-      <animate attributeName="opacity" values="0.15;0.36;0.15" dur="6s" repeatCount="indefinite" />
-    </rect>
-    <rect x="12" y="12" width="396" height="206" rx="18" ry="18" fill="url(#cardGlowC)" stroke="url(#pulseGradC)" stroke-width="2" filter="url(#glowC)">
-      <animate attributeName="stroke-dasharray" values="6 10; 18 14; 6 10" dur="9s" repeatCount="indefinite" />
-    </rect>
-    <rect x="20" y="20" width="380" height="190" rx="14" ry="14" fill="#0b1120" stroke="#1f2937" stroke-width="1" />
-    <image href="https://github-readme-stats.vercel.app/api?username=apanik&show_icons=true&theme=tokyonight&hide_border=false&bg_color=0d1117&title_color=10b981&icon_color=22d3ee" x="22" y="22" width="376" height="186" preserveAspectRatio="xMidYMid slice" />
-  </svg>
-
-  <svg width="420" height="230" viewBox="0 0 420 230" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="GitHub metrics dashboard with animated border" style="margin: 10px;">
-    <defs>
-      <linearGradient id="pulseGradD" x1="0%" y1="0%" x2="100%" y2="0%">
-        <stop offset="0%" stop-color="#10b981">
-          <animate attributeName="stop-color" values="#10b981;#8b5cf6;#22d3ee;#10b981" dur="8s" repeatCount="indefinite" />
-        </stop>
-        <stop offset="100%" stop-color="#22d3ee">
-          <animate attributeName="stop-color" values="#22d3ee;#10b981;#8b5cf6;#22d3ee" dur="8s" repeatCount="indefinite" />
-        </stop>
-      </linearGradient>
-      <linearGradient id="cardGlowD" x1="0%" y1="0%" x2="0%" y2="100%">
-        <stop offset="0%" stop-color="#0b1120" stop-opacity="0.9" />
-        <stop offset="100%" stop-color="#0f172a" stop-opacity="0.96" />
-      </linearGradient>
-      <filter id="glowD" x="-30%" y="-30%" width="160%" height="160%">
-        <feGaussianBlur stdDeviation="6" result="coloredBlur" />
-        <feMerge>
-          <feMergeNode in="coloredBlur" />
-          <feMergeNode in="SourceGraphic" />
-        </feMerge>
-      </filter>
-    </defs>
-    <rect x="0" y="0" width="420" height="230" fill="url(#pulseGradD)" opacity="0.25">
-      <animate attributeName="opacity" values="0.12;0.38;0.12" dur="6s" repeatCount="indefinite" />
-    </rect>
-    <rect x="12" y="12" width="396" height="206" rx="18" ry="18" fill="url(#cardGlowD)" stroke="url(#pulseGradD)" stroke-width="2" filter="url(#glowD)">
-      <animate attributeName="stroke-dashoffset" values="0;80;0" dur="10s" repeatCount="indefinite" />
-    </rect>
-    <rect x="20" y="20" width="380" height="190" rx="14" ry="14" fill="#0d1117" stroke="#1f2937" stroke-width="1" />
-    <image href="https://metrics.lecoq.io/apanik?template=classic&languages=1&isocalendar=1&lines=1&habits=1&achievements=1&languages.limit=6&languages.sections=most-used&languages.colors=github&languages.details=bytes-size,percentage&languages.threshold=1&isocalendar.duration=half-year&config.timezone=Etc%2FUTC" x="22" y="22" width="376" height="186" preserveAspectRatio="xMidYMid slice" />
-  </svg>
+  <table>
+    <tr>
+      <td>
+        <a href="https://github.com/apanik">
+          <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=apanik&theme=tokyonight&background=0d1117&ring=22d3ee&fire=34d399&currStreakLabel=34d399&sideNums=cffafe&currStreakNum=cffafe&dates=94a3b8&hide_border=true" width="420" />
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/apanik">
+          <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=apanik&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=34d399&icon_color=22d3ee&text_color=cffafe&border_radius=12&custom_title=Activity+Control+Panel" width="420" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://github.com/apanik">
+          <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=apanik&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=34d399&text_color=cffafe&border_radius=12&langs_count=8" width="420" />
+        </a>
+      </td>
+      <td>
+        <a href="https://metrics.lecoq.io/insights/apanik">
+          <img alt="GitHub Metrics" src="https://metrics.lecoq.io/apanik?template=classic&config.timezone=Etc%2FUTC&config.animated=true&config.background=gradient&config.padding=16%2C20&base.header=0&base.community=0&base.repositories=0&languages=1&isocalendar=1&lines=1&achievements=1&habits=1&languages.limit=6&languages.sections=most-used&languages.colors=github&languages.details=bytes-size%2Cpercentage&languages.threshold=1&isocalendar.duration=half-year" width="420" />
+        </a>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
