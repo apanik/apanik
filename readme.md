@@ -9,7 +9,7 @@
 </picture>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=10B981&center=true&vCenter=true&width=520&lines=%24%20whoami%3F%20Software%20Engineer%20%7C%20Python%20%7C%20Django;%24%20uptime%3F%20Cloud-first%20systems%2C%20AWS%20curious;%24%20motto%3F%20Ship%20clean%20code%20with%20craft" alt="Animated terminal typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=10B981&center=true&vCenter=true&width=560&lines=%24%20whoami%3F%20Software%20Engineer%20%7C%20Python%20%7C%20Django;%24%20uptime%3F%20Cloud-first%20systems%2C%20AWS%20curious;%24%20motto%3F%20Ship%20clean%20code%20with%20craft" alt="Animated terminal typing" />
 </div>
 
 <div align="center">
@@ -104,7 +104,7 @@ team_culture = "Thoughtful communication + healthy caffeine levels"
 ## 🏗 Architecture Snapshot
 > A visual outline of how I typically assemble services and tooling.
 
-![Architecture Diagram Placeholder](https://via.placeholder.com/1200x320/0f172a/ffffff?text=Architecture+Diagram)
+![Architecture Diagram Placeholder](https://placehold.co/1200x320/0f172a/ffffff?text=Architecture+Diagram)
 
 - **Entry & Routing:** Nginx/Apache reverse proxy to backend services.
 - **Backend:** Python, Django, Django REST Framework for robust APIs.
@@ -122,8 +122,8 @@ team_culture = "Thoughtful communication + healthy caffeine levels"
 ```
 
 <p align="center">
-  <kbd>![](https://github-readme-streak-stats.herokuapp.com/?user=apanik&theme=dark&hide_border=false)</kbd>
-  <kbd>![](https://github-readme-stats.vercel.app/api/top-langs/?username=apanik&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)</kbd>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=apanik&theme=dark&hide_border=false" alt="GitHub streak stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=apanik&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top languages chart" />
 </p>
 
 <p align="center">
@@ -149,7 +149,7 @@ team_culture = "Thoughtful communication + healthy caffeine levels"
 
 ## 🚦 Traffic Monitor
 
-[![](https://visitcount.itsvg.in/api?id=apanik&icon=5&color=1)](https://visitcount.itsvg.in)
+[![Visitor count badge](https://komarev.com/ghpvc/?username=apanik&style=for-the-badge&color=10b981&label=Visitors)](https://komarev.com/ghpvc/?username=apanik)
 
 ---
 
