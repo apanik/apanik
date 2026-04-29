@@ -20,6 +20,21 @@
 
 ---
 
+## 🐍 Contribution Snake
+
+```bash
+┌──(apanik@binate)-[~/activity]
+└─$ watch -n 86400 git log --oneline --graph --all
+```
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/apanik/apanik/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/apanik/apanik/output/github-contribution-grid-snake.svg" />
+  <img alt="Contribution Snake animation" src="https://raw.githubusercontent.com/apanik/apanik/output/github-contribution-grid-snake.svg" />
+</picture>
+
+---
+
 ## 🖥️ Terminal Session
 
 ```bash
@@ -83,21 +98,6 @@
 <div align="center">
   <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=apanik&theme=tokyonight&hide_border=false&layout=compact&count_private=true" width="420" />
 </div>
-
----
-
-## 🐍 Contribution Snake
-
-```bash
-┌──(apanik@binate)-[~/activity]
-└─$ watch -n 86400 git log --oneline --graph --all
-```
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/apanik/apanik/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/apanik/apanik/output/github-contribution-grid-snake.svg" />
-  <img alt="Contribution Snake animation" src="https://raw.githubusercontent.com/apanik/apanik/output/github-contribution-grid-snake.svg" />
-</picture>
 
 ---
 
